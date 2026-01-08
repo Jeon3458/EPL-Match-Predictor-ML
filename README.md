@@ -1,6 +1,6 @@
 # EPL-Match-Predictor-ML
 EPL Match Prediction Model based on Player Contribution Metrics using MLP Neural Network
-
+*Note: This repository has been migrated from a private development environment to serve as the primary, public-facing version of the project.*
 
 ## Premier League Match Prediction via Individual Player Contributions
 Quantifying Performance with MLP-based Neural Networks
