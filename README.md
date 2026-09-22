@@ -1,4 +1,4 @@
-## Note
+### <Note>
 The GitHub account originally used during the development of this project is no longer accessible. Therefore, the completed project was uploaded to this repository after development for project management and archival purposes. As a result, the commit history in this repository does not reflect the original development timeline.
 
 # EPL-Match-Predictor-ML
